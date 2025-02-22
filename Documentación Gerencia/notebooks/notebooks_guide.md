@@ -12,13 +12,21 @@ En este primer paso, se importan los seis conjuntos de datos disponibles y se co
 •	Municipio: El municipio donde ocurrió el delito.
 
 •	Código DANE: Código DANE del lugar donde ocurrió el delito.
+
 •	Armas Medio: Indica si se cuenta con acceso a armas.
+
 •	Fecha: Fecha de ocurrencia del delito.
+
 •	Género: Género del atacante.
+
 •	Agrupaciones de edad: Edad del atacante.
+
 •	Cantidad Del Delito: Número de delitos cometidos por el atacante.
+
 •	Delito: Tipo de delito cometido.
+
 •	ICON: Enlace a imágenes.
+
 ## 2. Asignación del Índice
 El siguiente paso consiste en establecer la columna ID como el índice del conjunto de datos. Esto facilita las búsquedas y mejora la calidad del conjunto de datos, evitando duplicados o inconsistencias en los valores de identificación.
 ## 3. Revisión de los Tipos de Datos
