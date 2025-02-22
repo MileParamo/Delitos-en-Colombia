@@ -6,8 +6,11 @@ Este cuaderno sigue una serie de pasos, los cuales se detallan a continuación:
 ## 1.	Importación de Datos
 En este primer paso, se importan los seis conjuntos de datos disponibles y se consolidan en una única base de datos. Esta base contiene las siguientes variables:
 •	Id: Número de identificación único del registro.
+
 •	Departamento: El departamento donde ocurrió el delito.
+
 •	Municipio: El municipio donde ocurrió el delito.
+
 •	Código DANE: Código DANE del lugar donde ocurrió el delito.
 •	Armas Medio: Indica si se cuenta con acceso a armas.
 •	Fecha: Fecha de ocurrencia del delito.
